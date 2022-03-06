@@ -1,5 +1,5 @@
 # pymatgen
-Code based on and using pymatgen
+Code based on and using pymatgen.
 
 Please see matgenb (https://matgenb.materialsvirtuallab.org/) for many useful notebooks.
 
